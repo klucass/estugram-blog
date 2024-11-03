@@ -1,6 +1,7 @@
 ---
 title: 'Nova plataforma Estugram'
 description: 'Novo site e app com layout simplificado: Estamos apresentando uma interface totalmente nova tanto para o nosso site quanto para o aplicativo.'
+cover: pexels-photo-1462633.webp
 ---
 Estamos entusiasmados em anunciar o lançamento das mais recentes funcionalidades do Estugram, projetadas para aprimorar ainda mais sua experiência de gerenciamento de estudos. Como nosso parceiro fiel, queremos mantê-lo informado sobre as emocionantes atualizações que preparamos para você.
 

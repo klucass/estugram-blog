@@ -1,6 +1,7 @@
 ---
 title: 'O que é ciclo de estudo e como fazer o seu'
 description: 'Neste post vamos falar sobre o Ciclo de Estudos, o que é, como ele é diferente do cronograma semanal tradicional além de dicas para montar um ciclo de estudos personalizado para você'
+cover: pexels-photo-196650.jpeg
 ---
 E se você pudesse organizar suas atividades de estudo de forma simples e eficiente, sem precisar de um calendário, agendas ou planilhas complexas?
 

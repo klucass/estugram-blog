@@ -1,6 +1,7 @@
 ---
 title: 'Como estudar um assunto difícil?'
 description: 'Dicas práticas detalhadas que podem ajudar a estudar assuntos difíceis de forma mais eficaz'
+cover: pexels-photo-1467564.webp
 ---
 Estudar um assunto difícil pode ser desafiador, mas há muitas estratégias que você pode usar para facilitar o processo. Aqui estão algumas dicas práticas detalhadas que podem ajudar a estudar assuntos difíceis de forma mais eficaz:
 

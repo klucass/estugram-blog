@@ -26,7 +26,11 @@
       <slot />
     </main>
     <footer class="border-t-2 mt-10 text-center">
-      <div class="text-center font-poppinsbold text-xl my-5">Estugram/Blog</div>
+      <div class="text-center font-poppinsbold text-2xl my-5 text-white">
+        Estugram
+        <span class="text-red">/</span>
+        <span class="text-green"> Blog </span>
+      </div>
       <div class="text-center py-5">
         <a class="link" href="https://estugram.com">Estugram</a> é uma
         plataforma que te ajuda a organizar o estudo de uma forma simples e

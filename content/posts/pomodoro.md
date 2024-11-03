@@ -1,6 +1,7 @@
 ---
 title: 'Como estudar usando o método Pomodoro'
 description: 'Guia completo do método pomodo, uma ferramenta poderosa para gerenciar o seu foco'
+cover: pexels-photo-7054768.webp
 ---
 Quem diria que uma técnica de gerenciamento de tempo baseada em um timer de cozinha teria tanto impacto na produtividade e no foco, não é mesmo? Bem-vindos ao guia completo sobre o Método Pomodoro!
 
